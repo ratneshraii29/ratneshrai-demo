@@ -1,4 +1,4 @@
 # ratneshrai-demo
 This is my first Git Repository.
 <br>
-Author - Ratnesh Rai
+Author - Ratnesh(Aman)
